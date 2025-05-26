@@ -1,6 +1,7 @@
 # HealthSync Technologies Sdn.Bhd
 
 ### MediFlow Management System
+---
 ### Team Members
 
 | NO | Name                     | Matric No  |       Role         |
@@ -9,6 +10,7 @@
 |  2  | NIVEHTHAA THANASEGARAN   | TG22093    | FRONTEND DEVELOPER & UI/UX DESIGNER |
 |  3  | DHARRSHINI MUTHUKRISHNAN | TG22121    | DATABASE & QA ENGINEER|
 
+---
 ### Functional Requirements
 
 •	The system should let users log in with a username and password, with different access for admin and staff.
