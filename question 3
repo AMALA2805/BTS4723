@@ -1,0 +1,11 @@
+# Clone the repo
+git clone https://github.com/your-username/question-3-answer.git
+cd question-3-answer
+
+# Create the Markdown file with the answer
+nano answer.md  # Or use any text editor to paste/write your answer
+
+# First commit
+git add answer.md
+git commit -m "Add answer to question 3 in Markdown format"
+git push origin main
