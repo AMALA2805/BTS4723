@@ -10,3 +10,9 @@
 |  3  | DHARRSHINI MUTHUKRISHNAN | TG22121    | DATABASE & QA ENGINEER|
 
 ### Functional Requirements
+
+•	The system should let users log in with a username and password, with different access for admin and staff.
+
+• The system should allow users to add new medicine details like name, type, amount, supplier, and expiry date.
+
+• The system should allow users to edit or delete medicine information if needed.
