@@ -33,3 +33,11 @@
 
 •	The system should help users make and manage purchase orders when stock is low.
 
+### Non-Functional Requirements
+
+•	The system should be secure and protect user data with password protection and access control.
+
+•	The system should be fast and respond within a few seconds when used.
+
+
+
