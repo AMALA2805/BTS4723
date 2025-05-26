@@ -43,6 +43,8 @@
 
 •	The system should work well and be available most of the time (at least 99% uptime).
 
+•	The system should be easy to use, with a simple and clear design that works on both computers and tablets.
+
 
 
 
