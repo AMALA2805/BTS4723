@@ -4,7 +4,7 @@
 ---
 ### Team Members
 
-| NO | Name                     | Matric No  |       Role         |
+| NO | Name                     | Matrix No  |       Role         |
 |----|--------------------------|------------|--------------------|
 |  1  | AMALA NANTHAGOPAL        | TG22081    | PROJECT MANAGER    |
 |  2  | NIVEHTHAA THANASEGARAN   | TG22093    | FRONTEND DEVELOPER & UI/UX DESIGNER |
